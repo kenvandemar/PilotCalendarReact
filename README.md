@@ -1,2 +1,2 @@
 # PilotCalendarReact
-This repo is about Pilot Calendar Financial made by React Native
+This repo is Pilot Calendar Financial App using React Native
