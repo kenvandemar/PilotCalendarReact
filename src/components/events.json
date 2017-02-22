@@ -1,0 +1,135 @@
+
+
+[
+  {
+    "Id": 14583,
+    "EventType": "Roadshow",
+    "DateType": 1,
+    "EventDate": "2016-10-31T00:00:00.00Z",
+    "EventEndDate": "2016-10-31T23:59:59.59Z",
+    "Title": "Q3 2016 Roadshow",
+    "Text": "",
+    "IsAllDayEvent": true,
+    "Location": "Frankfurt",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  },
+  {
+    "Id": 14593,
+    "EventType": "Roadshow",
+    "DateType": 1,
+    "EventDate": "2016-10-27T00:00:00.00Z",
+    "EventEndDate": "2016-10-27T23:59:59.59Z",
+    "Title": "Q3 2016 Roadshow",
+    "Text": "",
+    "IsAllDayEvent": true,
+    "Location": "Copenhagen",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  },
+  {
+    "Id": 10349,
+    "EventType": "Results",
+    "DateType": 1,
+    "EventDate": "2016-10-26T00:00:00.00Z",
+    "EventEndDate": "2016-10-26T23:59:59.59Z",
+    "Title": "Interim report for the first nine months of 2016",
+    "Text": "",
+    "IsAllDayEvent": true,
+    "Location": "",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  },
+  {
+    "Id": 10354,
+    "EventType": "Silent period",
+    "DateType": 4,
+    "EventDate": "2016-10-01T00:00:00.00Z",
+    "EventEndDate": "2016-10-25T23:59:59.59Z",
+    "Title": "Silent period",
+    "Text": "",
+    "IsAllDayEvent": true,
+    "Location": "",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  },
+  {
+    "Id": 13348,
+    "EventType": "Conference ",
+    "DateType": 1,
+    "EventDate": "2016-09-20T00:00:00.00Z",
+    "EventEndDate": "2016-09-20T23:59:59.59Z",
+    "Title": "InvestorDagene",
+    "Text": "",
+    "IsAllDayEvent": true,
+    "Location": "Copenhagen",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  },
+  {
+    "Id": 13347,
+    "EventType": "Conference ",
+    "DateType": 1,
+    "EventDate": "2016-09-15T00:00:00.00Z",
+    "EventEndDate": "2016-09-15T23:59:59.59Z",
+    "Title": "Berenberg Food Ingredients & Chemicals Conference",
+    "Text": "",
+    "IsAllDayEvent": true,
+    "Location": "London",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  },
+  {
+    "Id": 13346,
+    "EventType": "Conference ",
+    "DateType": 1,
+    "EventDate": "2016-09-14T00:00:00.00Z",
+    "EventEndDate": "2016-09-14T23:59:59.59Z",
+    "Title": "Kepler Chevreux Autumn Conference",
+    "Text": "",
+    "IsAllDayEvent": true,
+    "Location": "Paris",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  },
+  {
+    "Id": 13322,
+    "EventType": "Conference ",
+    "DateType": 4,
+    "EventDate": "2016-09-13T00:00:00.00Z",
+    "EventEndDate": "2016-09-14T23:59:59.59Z",
+    "Title": "Credit Suisse 2016 Basic Materials Conference",
+    "Text": "",
+    "IsAllDayEvent": false,
+    "Location": "New York",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  },
+  {
+    "Id": 13339,
+    "EventType": "Roadshow",
+    "DateType": 1,
+    "EventDate": "2016-08-26T00:00:00.00Z",
+    "EventEndDate": "2016-08-26T23:59:59.59Z",
+    "Title": "Q2 2016 Roadshow",
+    "Text": "",
+    "IsAllDayEvent": true,
+    "Location": "Stockholm",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  },
+  {
+    "Id": 13338,
+    "EventType": "Roadshow",
+    "DateType": 1,
+    "EventDate": "2016-08-25T00:00:00.00Z",
+    "EventEndDate": "2016-08-25T23:59:59.59Z",
+    "Title": "Q2 2016 Roadshow",
+    "Text": "",
+    "IsAllDayEvent": true,
+    "Location": "Dublin",
+    "LinkUrl": "",
+    "LinkDescription": ""
+  }
+]
+}
